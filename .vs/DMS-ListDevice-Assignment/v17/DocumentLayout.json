@@ -1,0 +1,877 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\views\\shared\\_homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\views\\device\\_categorypropertiespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\views\\device\\_categorypropertiespartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\commands\\handlers\\devicehandler\\adddevicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\commands\\handlers\\devicehandler\\adddevicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\moduleapplicationdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\moduleapplicationdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\moduleinfrastructuredependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\moduleinfrastructuredependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\models\\userquery\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\models\\userquery\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\handlers\\userhandler\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\handlers\\userhandler\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\handlers\\getalldevicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\handlers\\getalldevicehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\models\\getalldevicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\models\\getalldevicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\models\\categoryquery\\getallcategorypropertiesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\models\\categoryquery\\getallcategorypropertiesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\viewmodels\\deviceindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\viewmodels\\deviceindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\viewmodels\\devicecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\viewmodels\\devicecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\datacontext\\listdevicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\datacontext\\listdevicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.domain\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|solutionrelative:listdevice.domain\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\handlers\\categoryhandler\\getallcategorypropertieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\handlers\\categoryhandler\\getallcategorypropertieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\errorshandler\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\errorshandler\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\errorshandler\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\errorshandler\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\commands\\models\\devicequery\\adddevicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\commands\\models\\devicequery\\adddevicequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\handlers\\categoryhandler\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\handlers\\categoryhandler\\getallcategorieshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\viewmodels\\categorypropertiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\viewmodels\\categorypropertiesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|solutionrelative:listdevice.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\handlers\\getdevicesbuserialnohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\handlers\\getdevicesbuserialnohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\models\\getdevicesbuserialnoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\models\\getdevicesbuserialnoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\features\\devicer\\query\\models\\categoryquery\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\features\\devicer\\query\\models\\categoryquery\\getallcategoriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|solutionrelative:listdevice.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.application\\abstractions\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A52EFF4-1514-4288-86E4-CFCBD7A4395E}|ListDevice.Application\\ListDevice.Application.csproj|solutionrelative:listdevice.application\\abstractions\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\migrations\\20251001152828_migv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\migrations\\20251001152828_migv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|solutionrelative:listdevice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\listdevice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\listdevice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.domain\\entities\\categoryproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13B3A3E-CB7D-49E8-BA11-4BB091A6694D}|ListDevice.Domain\\ListDevice.Domain.csproj|solutionrelative:listdevice.domain\\entities\\categoryproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.infrastructure\\migrations\\20250930233042_migv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5482EB-B4ED-44F5-B2A3-51A5B0959207}|ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj|solutionrelative:listdevice.infrastructure\\migrations\\20250930233042_migv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|d:\\web.net teach\\jobassignment\\dms-listdevice-assignment\\listdevice.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F1034F8-1CE6-4D91-9D22-B754130D1BB5}|ListDevice.Web\\ListDevice.Web.csproj|solutionrelative:listdevice.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "ListDevice.Web\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "ListDevice.Web\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:58:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModuleApplicationDependency.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ModuleApplicationDependency.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ModuleApplicationDependency.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ModuleApplicationDependency.cs",
+              "RelativeToolTip": "ListDevice.Application\\ModuleApplicationDependency.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:32:28.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_CategoryPropertiesPartial.cshtml",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Device\\_CategoryPropertiesPartial.cshtml",
+              "RelativeDocumentMoniker": "ListDevice.Web\\Views\\Device\\_CategoryPropertiesPartial.cshtml",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Device\\_CategoryPropertiesPartial.cshtml",
+              "RelativeToolTip": "ListDevice.Web\\Views\\Device\\_CategoryPropertiesPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T19:10:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "ListDevice.Web\\Views\\Shared\\_HomeLayout.cshtml",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Shared\\_HomeLayout.cshtml",
+              "RelativeToolTip": "ListDevice.Web\\Views\\Shared\\_HomeLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T14:30:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Device\\Create.cshtml",
+              "RelativeDocumentMoniker": "ListDevice.Web\\Views\\Device\\Create.cshtml",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Device\\Create.cshtml",
+              "RelativeToolTip": "ListDevice.Web\\Views\\Device\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T19:08:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Device\\Index.cshtml",
+              "RelativeDocumentMoniker": "ListDevice.Web\\Views\\Device\\Index.cshtml",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Views\\Device\\Index.cshtml",
+              "RelativeToolTip": "ListDevice.Web\\Views\\Device\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T14:27:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModuleInfrastructureDependency.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\ModuleInfrastructureDependency.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\ModuleInfrastructureDependency.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\ModuleInfrastructureDependency.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\ModuleInfrastructureDependency.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:50:32.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ListDevice.Web\\Program.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\Program.cs",
+              "RelativeToolTip": "ListDevice.Web\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:38:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDeviceHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Commands\\Handlers\\DeviceHandler\\AddDeviceHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Commands\\Handlers\\DeviceHandler\\AddDeviceHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Commands\\Handlers\\DeviceHandler\\AddDeviceHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Commands\\Handlers\\DeviceHandler\\AddDeviceHandler.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAhwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:30:34.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllDeviceHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetAllDeviceHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetAllDeviceHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetAllDeviceHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetAllDeviceHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAA4AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:40:38.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllUserQuery.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\UserQuery\\GetAllUserQuery.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\UserQuery\\GetAllUserQuery.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\UserQuery\\GetAllUserQuery.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\UserQuery\\GetAllUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:21:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllUserHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\UserHandler\\GetAllUserHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\UserHandler\\GetAllUserHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\UserHandler\\GetAllUserHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\UserHandler\\GetAllUserHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:21:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllDeviceQuery.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetAllDeviceQuery.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetAllDeviceQuery.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetAllDeviceQuery.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetAllDeviceQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T02:40:13.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllCategoryPropertiesQuery.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoryPropertiesQuery.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoryPropertiesQuery.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoryPropertiesQuery.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoryPropertiesQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:18:34.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:10:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:18:38.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:53:00.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IUserService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\IUserService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IUserService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:16:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:16:31.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:19:58.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:14:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeviceIndexViewModel.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\DeviceIndexViewModel.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ViewModels\\DeviceIndexViewModel.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\DeviceIndexViewModel.cs",
+              "RelativeToolTip": "ListDevice.Application\\ViewModels\\DeviceIndexViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:53:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListDeviceContext.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\DataContext\\ListDeviceContext.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\DataContext\\ListDeviceContext.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\DataContext\\ListDeviceContext.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\DataContext\\ListDeviceContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:31:40.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "ListDevice.Domain\\Entities\\Device.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\Device.cs",
+              "RelativeToolTip": "ListDevice.Domain\\Entities\\Device.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:25:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeviceCreateViewModel.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\DeviceCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ViewModels\\DeviceCreateViewModel.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\DeviceCreateViewModel.cs",
+              "RelativeToolTip": "ListDevice.Application\\ViewModels\\DeviceCreateViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:17:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:14:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\IDeviceRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IDeviceRepository.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\IDeviceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:08:00.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\IPropertyService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IPropertyService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:15:37.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResponseHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ErrorsHandler\\ResponseHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ErrorsHandler\\ResponseHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ErrorsHandler\\ResponseHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\ErrorsHandler\\ResponseHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:48:23.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllCategoryPropertiesHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoryPropertiesHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoryPropertiesHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoryPropertiesHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoryPropertiesHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:19:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:43:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ErrorsHandler\\Response.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ErrorsHandler\\Response.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ErrorsHandler\\Response.cs",
+              "RelativeToolTip": "ListDevice.Application\\ErrorsHandler\\Response.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:46:32.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Services\\DeviceService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Services\\DeviceService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Services\\DeviceService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvyEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:35:14.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddDeviceQuery.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Commands\\Models\\DeviceQuery\\AddDeviceQuery.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Commands\\Models\\DeviceQuery\\AddDeviceQuery.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Commands\\Models\\DeviceQuery\\AddDeviceQuery.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Commands\\Models\\DeviceQuery\\AddDeviceQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:30:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDeviceService.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IDeviceService.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\IDeviceService.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IDeviceService.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\IDeviceService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:31:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ListDevice.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ListDevice.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:26:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetAllCategoriesHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoriesHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoriesHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoriesHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\categoryHandler\\GetAllCategoriesHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:19:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "ListDevice.Application\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:21:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryPropertiesViewModel.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\CategoryPropertiesViewModel.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\ViewModels\\CategoryPropertiesViewModel.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\ViewModels\\CategoryPropertiesViewModel.cs",
+              "RelativeToolTip": "ListDevice.Application\\ViewModels\\CategoryPropertiesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:22:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetDevicesBuSerialNoHandler.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetDevicesBuSerialNoHandler.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetDevicesBuSerialNoHandler.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetDevicesBuSerialNoHandler.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Handlers\\GetDevicesBuSerialNoHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:49:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetDevicesBuSerialNoQuery.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetDevicesBuSerialNoQuery.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetDevicesBuSerialNoQuery.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetDevicesBuSerialNoQuery.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\GetDevicesBuSerialNoQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:47:15.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetAllCategoriesQuery.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoriesQuery.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoriesQuery.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoriesQuery.cs",
+              "RelativeToolTip": "ListDevice.Application\\Features\\DeviceR\\Query\\Models\\CategoryQuery\\GetAllCategoriesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:18:08.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "ListDevice.Domain\\Entities\\Property.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\Property.cs",
+              "RelativeToolTip": "ListDevice.Domain\\Entities\\Property.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:27:32.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:19:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "ListDevice.Application\\Abstractions\\IPropertyRepository.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Application\\Abstractions\\IPropertyRepository.cs",
+              "RelativeToolTip": "ListDevice.Application\\Abstractions\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:15:11.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251001152828_migV2.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Migrations\\20251001152828_migV2.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\Migrations\\20251001152828_migV2.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Migrations\\20251001152828_migV2.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\Migrations\\20251001152828_migV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:28:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ListDevice.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ListDevice.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:29:28.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ListDevice.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj",
+              "RelativeToolTip": "ListDevice.Infrastructure\\ListDevice.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T01:39:02.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryProperty.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\CategoryProperty.cs",
+              "RelativeDocumentMoniker": "ListDevice.Domain\\Entities\\CategoryProperty.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Domain\\Entities\\CategoryProperty.cs",
+              "RelativeToolTip": "ListDevice.Domain\\Entities\\CategoryProperty.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:28:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250930233042_MigV1.cs",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Migrations\\20250930233042_MigV1.cs",
+              "RelativeDocumentMoniker": "ListDevice.Infrastructure\\Migrations\\20250930233042_MigV1.cs",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Infrastructure\\Migrations\\20250930233042_MigV1.cs",
+              "RelativeToolTip": "ListDevice.Infrastructure\\Migrations\\20250930233042_MigV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T23:30:42.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ListDevice.Web\\appsettings.json",
+              "ToolTip": "D:\\web.net teach\\jobAssignment\\DMS-ListDevice-Assignment\\ListDevice.Web\\appsettings.json",
+              "RelativeToolTip": "ListDevice.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T22:37:18.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

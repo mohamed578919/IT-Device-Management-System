@@ -1,0 +1,12 @@
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\bin\Debug\net8.0\ListDevice.Domain.deps.json
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\bin\Debug\net8.0\ListDevice.Domain.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\bin\Debug\net8.0\ListDevice.Domain.pdb
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.csproj.AssemblyReference.cache
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.AssemblyInfoInputs.cache
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.AssemblyInfo.cs
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.csproj.CoreCompileInputs.cache
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\refint\ListDevice.Domain.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ListDevice.Domain.pdb
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Domain\obj\Debug\net8.0\ref\ListDevice.Domain.dll

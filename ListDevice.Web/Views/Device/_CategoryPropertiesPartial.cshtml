@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ListDevice.Application.ViewModels.CategoryPropertiesViewModel>
+
+<h4>Category Properties</h4>
+@foreach (var prop in Model)
+{
+    <div class="mb-3">
+        <label class="form-label">@prop.PropertyName</label>
+
+        @if (prop.InputType == "text")
+        {
+            <input type="text" name="PropertyValues[@prop.PropertyName]" class="form-control" />
+        }
+        else if (prop.InputType == "checkbox")
+        {
+            <input type="checkbox" name="PropertyValues[@prop.PropertyName]" value="true" />
+        }
+        else if (prop.InputType == "lookup")
+        {
+            <select name="PropertyValues[@prop.PropertyName]" class="form-select">
+               
+                @foreach (var user in ViewBag.Users as SelectList)
+                {
+                    <option value="@user.Value">@user.Text</option>
+                }
+            </select>
+        }
+    </div>
+}

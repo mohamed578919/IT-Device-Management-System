@@ -1,0 +1,15 @@
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\bin\Debug\net8.0\ListDevice.Application.deps.json
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\bin\Debug\net8.0\ListDevice.Application.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\bin\Debug\net8.0\ListDevice.Application.pdb
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\bin\Debug\net8.0\ListDevice.Domain.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\bin\Debug\net8.0\ListDevice.Domain.pdb
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.csproj.AssemblyReference.cache
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.AssemblyInfoInputs.cache
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.AssemblyInfo.cs
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.csproj.CoreCompileInputs.cache
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevi.DAC38BAD.Up2Date
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\refint\ListDevice.Application.dll
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ListDevice.Application.pdb
+D:\web.net teach\jobAssignment\DMS-ListDevice-Assignment\ListDevice.Application\obj\Debug\net8.0\ref\ListDevice.Application.dll

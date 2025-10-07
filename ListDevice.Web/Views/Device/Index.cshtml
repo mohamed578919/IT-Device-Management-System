@@ -1,0 +1,76 @@
+﻿@model IEnumerable<ListDevice.Application.ViewModels.DeviceIndexViewModel>
+@{
+    Layout = "_HomeLayout";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h1>All Devices</h1>
+    <br />
+    <br />
+
+    
+
+
+    <form asp-action="Create" asp-controller="Device" method="get" class="row g-3 mb-4">
+        <div class="col-md-6">
+            <label for="CategoryId" class="form-label">Choose Category</label>
+            <select asp-items="ViewBag.Categories" class="form-select" name="categoryName">
+                
+            </select>
+            
+        </div>
+        <div class="col-md-6 align-self-end">
+            <button type="submit" class="btn btn-success">Add Other Device</button>
+        </div>
+    </form>
+    <table class="table table-bordered table-striped table-hover text-center">
+        
+        @foreach (var Dev in Model)
+        {
+
+            <tr>
+            <td>@Html.DisplayNameFor(Model => Model.DeviceName)</td>
+            <td>@Html.DisplayNameFor(Model => Model.SerialNo)</td>
+            <td>@Html.DisplayNameFor(Model => Model.AcquisitionDate)</td>
+            <td>@Html.DisplayNameFor(Model => Model.CategoryName)</td>
+             <td>@Html.DisplayNameFor(Model => Model.PropertyValues)</td>
+
+            
+
+
+            </tr>
+            <tr>
+                <td>@Dev.DeviceName</td>
+                <td>@Dev.SerialNo</td>
+                <td>@Dev.AcquisitionDate</td>
+                <td>@Dev.CategoryName</td>
+                <td>
+                    @if (Dev.PropertyValues != null && Dev.PropertyValues.Any())
+                    {
+                        <ul>
+                            @foreach (var prop in Dev.PropertyValues)
+                            {
+                                <li><b>@prop.Key</b>: @prop.Value</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span>No Properties</span>
+                    }
+                </td>
+
+
+                
+
+
+            </tr>
+        }
+    </table>
+</body>
+</html>

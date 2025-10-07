@@ -1,0 +1,60 @@
+﻿@model ListDevice.Application.ViewModels.DeviceCreateViewModel
+@{
+    Layout = "_HomeLayout";
+}
+
+<h2>Create Device</h2>
+
+<div class="container">
+   
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label asp-for="DeviceName" class="form-label"></label>
+            <input asp-for="DeviceName" class="form-control" />
+            <span asp-validation-for="DeviceName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="SerialNo" class="form-label"></label>
+            <input asp-for="SerialNo" class="form-control" />
+            <span asp-validation-for="SerialNo" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="AcquisitionDate" class="form-label"></label>
+            <input asp-for="AcquisitionDate" type="date" class="form-control" />
+            <span asp-validation-for="AcquisitionDate" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Memo" class="form-label"></label>
+            <textarea asp-for="Memo" class="form-control"></textarea>
+            <span asp-validation-for="Memo" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label for="CategoryId" class="form-label">Choose Category</label>
+            <div class="mb-3">
+                <label class="form-label">Category</label>
+                <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control">
+                    
+                </select>
+            </div>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
+        <!-- Partial View -->
+        <div id="properties-container">
+            @await Html.PartialAsync("_CategoryPropertiesPartial", Model.Properties)
+        </div>
+
+        <button type="submit" class="btn btn-success">Save</button>
+    </form>
+</div>
+
+@section validateSection {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
