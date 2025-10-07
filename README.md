@@ -59,7 +59,3 @@ This project follows **Clean Architecture** and the **CQRS pattern** to ensure a
 - **Dependency Injection**  
 
 ---
-
-
-
-
